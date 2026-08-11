@@ -1,0 +1,5 @@
+
+> meridian-token-contract-kit@0.1.0 compile
+> hardhat compile --config hardhat.config.cjs
+
+Nothing to compile

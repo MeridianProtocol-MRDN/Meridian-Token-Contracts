@@ -1,0 +1,16 @@
+
+> meridian-token-contract-kit@0.1.0 test
+> hardhat test --config hardhat.config.cjs
+
+
+
+  LaunchToken
+    ✔ mints the exact fixed supply to the initial holder (694ms)
+    ✔ supports standard transfers and approvals
+    ✔ rejects a zero initial holder and zero initial supply
+    ✔ rejects unsupported decimals above 18
+    ✔ has no mint, pause, blacklist, tax, or owner administration surface
+
+
+  5 passing (757ms)
+

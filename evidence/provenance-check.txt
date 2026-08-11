@@ -1,0 +1,6 @@
+Supplied checksum file: attached_assets/Meridian-Protocol-delivery_1786207929710.sha256
+Supplied checksum target: Meridian-Protocol-delivery.zip
+Uploaded archive: attached_assets/Meridian-Protocol-mainnet-handoff_1786207929813.zip
+Supplied checksum value: 74c9187ba9dcbe13ed40b61d80a9b959c4fb51ff9d871de5df264235955db7bc
+Uploaded archive SHA-256: a4be8b65bf121592b30bd13ce8ef1c3cb077fddc2e53456d3ed89ef4a3b5d409
+Conclusion: checksum target/name mismatch; supplied checksum does not validate the uploaded archive.

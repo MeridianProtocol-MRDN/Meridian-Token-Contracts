@@ -1,0 +1,3 @@
+b01280f003390648bd40d92c89ff804baafb7cff1fefd495d0346d2e91cde368  Meridian-Protocol-mainnet-delivery/contracts/LaunchToken.sol
+b01280f003390648bd40d92c89ff804baafb7cff1fefd495d0346d2e91cde368  Meridian-Protocol-mainnet-delivery/contract-kit/contracts/LaunchToken.sol
+bdc9254bd34eae19e7d42b4f8c20473a61fc92003f0abd9a9c6a96380824e1b2  Meridian-Protocol-mainnet-delivery/evidence/LaunchToken-ABI.json

@@ -1,0 +1,21 @@
+{
+  "verifiedAt": "2026-08-06T11:10:35.022Z",
+  "rpcEndpoint": "BSC_TESTNET_RPC_URL (secret)",
+  "contractAddress": "0xeF8abA1703439CcdEA58f12CFb56235232Fa022C",
+  "chain": "BNB Testnet",
+  "chainId": 97,
+  "name": "Meridian Protocol",
+  "symbol": "MRDN",
+  "decimals": 18,
+  "totalSupply": "1000000000 MRDN",
+  "holderAddress": "0x9954585529c7FC22b47E6562C9726082F810903C",
+  "holderBalance": "1000000000 MRDN",
+  "holderHasFullSupply": true,
+  "bytecodePresent": true,
+  "bscscanVerified": true,
+  "bscscanLink": "https://testnet.bscscan.com/address/0xeF8abA1703439CcdEA58f12CFb56235232Fa022C#code",
+  "bscscanMatch": "Exact Match",
+  "txHash": "0x2d8361af22e43f538cfda35c78f40ccf385d94ac666d4d82efbec46e2a0f136b",
+  "txHashNote": "TX hash may not index on testnet explorer — contract existence confirmed via RPC bytecode check",
+  "note": "All on-chain values verified directly via JSON-RPC. No discrepancy found."
+}
